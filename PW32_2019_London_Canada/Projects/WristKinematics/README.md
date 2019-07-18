@@ -6,12 +6,12 @@ Back to [Projects List](../../README.md#ProjectsList)
 - Puneet Kaur Ranota (Western University) 
 
 # Project Description
-We are looking to investigate the distance between bones in the wrist from CT images.
+We are looking to investigate the distance between bones in the wrist from 4DCT images.
 
 ## Objective
 1. Load static CT into Slicer
 1. Load 4D cine CT into Slicer
-1. ...
+1. Create 3D reconstructions of the radius, ulna, capitate, scaphoid, lunate, and 3rd metacarpal
 
 ## Approach and Plan
 
